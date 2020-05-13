@@ -5,7 +5,7 @@
 		$("#searchMovie").click(searchMovie);
 
 		var movieTitle = $("#movieTitle");
-
+        var ploat = $("#plot")
 
 		var table = $("#result");
 		// find tbody to output result 
